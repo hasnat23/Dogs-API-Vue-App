@@ -1,4 +1,4 @@
-# schuttflixtest
+# Dogs APP Dashboard
 
 ## Project setup
 ```
